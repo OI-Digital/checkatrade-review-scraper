@@ -6,6 +6,7 @@ Scrape reviews from CheckaTrade.com
 
 # TODO
 
+- Deal with checkatrade pagination
 - Ignore reviews that have a rating under '7' (for example)
 - Integrate frontend with Divi framework
 - Setup rich snippets schema for SERPs
