@@ -7,6 +7,7 @@ Scrape reviews from CheckaTrade.com. Uses PHP and xPath and will load reviews in
 # TODO
 
 - Deal with checkatrade pagination
+- Make the extraction rutines more efficient
 - Ignore reviews that have a rating under '7' (for example)
 - Integrate frontend with Divi framework
 - Setup rich snippets schema for SERPs
