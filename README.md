@@ -1,5 +1,5 @@
 # PHP CheckaTrade.com Reviews Scraper
-Scrape reviews from CheckaTrade.com. Uses PHP and xPath and will load reviews into WordPress running Advanced Custom Fields (ACF) for review data
+Scrape reviews from CheckaTrade.com. Uses PHP and xPath and will load reviews into a WordPress Custom Post Type running Advanced Custom Fields (ACF) for review data
 
 - Upload to public_html
 - Set a cron job to run the script on your desired schedule
