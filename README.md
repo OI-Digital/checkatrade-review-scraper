@@ -1,4 +1,4 @@
-# checkatrade-review-scraper
+# CheckaTrade.com Reviews Scraper
 Scrape reviews from CheckaTrade.com
 
 - Upload to public_html
