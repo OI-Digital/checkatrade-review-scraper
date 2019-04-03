@@ -12,4 +12,5 @@ Scrape reviews from CheckaTrade.com. Uses PHP and xPath and will load reviews in
 - Ignore reviews that have a rating under '7' (for example)
 - Integrate frontend with Divi framework
 - Setup rich snippets schema for SERPs
+- Setup on wp-cron
 - Pluginize?
