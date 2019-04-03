@@ -55,7 +55,7 @@ function returnXPathObject($item) {
 	return $xmlPageXPath;
 }
 
-$getPage = curlGet('https://www.checkatrade.com/AndertonElectrics/Reviews.aspx?sort=0&page=2#results');
+$getPage = curlGet('https://www.checkatrade.com/AndertonElectrics/Reviews.aspx');
 $pageObject = returnXPathObject($getPage);
 
 // Get review ID to dedupe
